@@ -1,0 +1,16 @@
+[Config]
+# Lists all of the bot settings
+# Currently unused
+current semester: A212
+
+[Sources]
+# Lists all the data sources
+# https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A212)
+https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A211)
+https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A202)
+https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A201)
+https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A192)
+https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A191)
+https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A181)
+https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A172)
+https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A171)
