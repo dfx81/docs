@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.dfx81.bot"},{"l":"io.github.dfx81.database"},{"l":"io.github.dfx81.dataclasses"},{"l":"io.github.dfx81.scraper"},{"l":"io.github.dfx81.utils"},{"l":"my.uum"}];updateSearchResults();
