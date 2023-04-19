@@ -11,4 +11,4 @@ Documentations for code &amp; stuff
 
 # Ngrok Link
 
-[Link (might not be available 24/7)](https://3688-103-5-183-43.ngrok-free.app/)
+[Link (might not be available 24/7)](https://d8bf-103-5-183-43.ngrok-free.app/)
